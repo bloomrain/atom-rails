@@ -10,3 +10,4 @@
 '.editor':
   'ctrl-alt-m': 'atom-rails:switch-to-model'
   'ctrl-alt-r': 'atom-rails:related'
+  'shift-alt-r': 'atom-rails:open-definition-file'

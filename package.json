@@ -6,7 +6,8 @@
   "author": "Tom Kadwill",
   "activationEvents": [
     "atom-rails:switch-to-model",
-    "atom-rails:related"
+    "atom-rails:related",
+    "atom-rails:open-definition-file"
   ],
   "repository": "https://github.com/tomkadwill/atom-rails",
   "license": "MIT",
